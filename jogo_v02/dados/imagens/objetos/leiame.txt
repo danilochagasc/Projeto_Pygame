@@ -1,0 +1,33 @@
+Leia-me
+=======
+
+    O Tileset (*) desta pasta é uma adaptação do Tileset
+    "Freescifiplatform" (**).
+
+
+Regras para imagens:
+
+    O formato da imagem deve ser PNG (***)
+
+    O nome dos arquivos devem possuir dois identificadores, 'A' e 'B'.
+
+        . nome_A_B.png
+
+        . 'A' deve ser igual a 'n' (não colidível) ou a 'c' (colidível).
+
+        . 'B' um caracter imprimível. Este caracter será o identificador
+          utilizado no arquivo mapa.db
+
+
+Observações:
+============
+
+    (*) Tileset é um conjunto de imagens representando objetos (componentes,
+        obstáculos, artefatos, etc) utilizados para compor cenários de
+        jogos eletrônicos.
+
+    (**) Freescifiplatform é um 'Tileset' distribuído gratuitamente pela equipe
+         gameart2d. Em Abril de 2020 estava disponível em:
+         https://www.gameart2d.com/free-sci-fi-platformer-tileset.html
+
+    (***) PNG (Portable Network Graphics) - https://pt.wikipedia.org/wiki/PNG

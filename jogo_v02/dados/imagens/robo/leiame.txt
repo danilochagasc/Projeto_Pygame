@@ -1,0 +1,32 @@
+Leia-me
+=======
+
+    As 'Sprites' (*) do robô desta pasta são adaptações das
+    Sprites "RobotFree" (**).
+
+
+Regras para imagens:
+
+    O formato da imagem deve ser PNG (***)
+
+    O nome dos arquivos devem possuir dois identificadores, 'E' e 'NB'.
+
+        . robo_E_NB.png
+
+        . 'E' estado do Robô (ex.: correndo, saltando, etc.)
+
+        . 'NB' número de dois dígitos. Este é o número da pose do estado 'E'.
+
+
+Observações:
+============
+
+    (*) Sprites - objeto gráfico bi ou tridimensional que se move em uma tela
+        sem deixar rastros.
+        https://pt.wikipedia.org/wiki/Sprite_(computação_gráfica)
+
+    (**) RobotFree é uma coleção de 'Sprites' distribuído gratuitamente
+         pela equipe gameart2d. Em Abril de 2020 estava disponível em:
+         https://www.gameart2d.com/the-robot---free-sprites.html
+
+    (***) PNG (Portable Network Graphics) - https://pt.wikipedia.org/wiki/PNG
